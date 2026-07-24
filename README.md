@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhzcode1/DSA_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhzcode1/DSA_Problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhzcode1/DSA_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhzcode1/DSA_Problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhzcode1/DSA_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhzcode1/DSA_Problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhzcode1/DSA_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhzcode1/DSA_Problem/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
