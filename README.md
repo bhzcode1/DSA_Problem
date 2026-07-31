@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
 | [0654-maximum-binary-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0654-maximum-binary-tree) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
