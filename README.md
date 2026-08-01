@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/bhzcode1/DSA_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0654-maximum-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhzcode1/DSA_Problem/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -86,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/bhzcode1/DSA_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
