@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/bhzcode1/DSA_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0654-maximum-binary-tree) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhzcode1/DSA_Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhzcode1/DSA_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhzcode1/DSA_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhzcode1/DSA_Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
