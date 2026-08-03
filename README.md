@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/bhzcode1/DSA_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0654-maximum-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhzcode1/DSA_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhzcode1/DSA_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/bhzcode1/DSA_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0930-binary-subarrays-with-sum) |
