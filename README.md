@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhzcode1/DSA_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhzcode1/DSA_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhzcode1/DSA_Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
@@ -119,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
