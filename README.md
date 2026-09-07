@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/bhzcode1/DSA_Problem/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhzcode1/DSA_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
+| [0168-excel-sheet-column-title](https://github.com/bhzcode1/DSA_Problem/tree/master/0168-excel-sheet-column-title) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bhzcode1/DSA_Problem/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhzcode1/DSA_Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
