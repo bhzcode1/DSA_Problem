@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/bhzcode1/DSA_Problem/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/bhzcode1/DSA_Problem/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
