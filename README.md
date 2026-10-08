@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhzcode1/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhzcode1/DSA_Problem/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/bhzcode1/DSA_Problem/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/bhzcode1/DSA_Problem/tree/master/0168-excel-sheet-column-title) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bhzcode1/DSA_Problem/tree/master/0567-permutation-in-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/bhzcode1/DSA_Problem/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/bhzcode1/DSA_Problem/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/bhzcode1/DSA_Problem/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhzcode1/DSA_Problem/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/bhzcode1/DSA_Problem/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
