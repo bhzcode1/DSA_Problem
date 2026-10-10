@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bhzcode1/DSA_Problem/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhzcode1/DSA_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0216-combination-sum-iii](https://github.com/bhzcode1/DSA_Problem/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhzcode1/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhzcode1/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/bhzcode1/DSA_Problem/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/bhzcode1/DSA_Problem/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/bhzcode1/DSA_Problem/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/bhzcode1/DSA_Problem/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
