@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/bhzcode1/DSA_Problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhzcode1/DSA_Problem/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhzcode1/DSA_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/bhzcode1/DSA_Problem/tree/master/0216-combination-sum-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bhzcode1/DSA_Problem/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhzcode1/DSA_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhzcode1/DSA_Problem/tree/master/0145-binary-tree-postorder-traversal) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhzcode1/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhzcode1/DSA_Problem/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bhzcode1/DSA_Problem/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/bhzcode1/DSA_Problem/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/bhzcode1/DSA_Problem/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/bhzcode1/DSA_Problem/tree/master/0168-excel-sheet-column-title) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhzcode1/DSA_Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/bhzcode1/DSA_Problem/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/bhzcode1/DSA_Problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhzcode1/DSA_Problem/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/bhzcode1/DSA_Problem/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bhzcode1/DSA_Problem/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhzcode1/DSA_Problem/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bhzcode1/DSA_Problem/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
