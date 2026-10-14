@@ -5,7 +5,7 @@ public:
         
         for(int i= 0;i<accounts.size();i++){
             int sum= 0;
-             for(int j=0;j<accounts[0].size();j++){
+             for(int j=0;j<accounts[i].size();j++){
                 sum+=accounts[i][j];
             }
             maxSum = max(maxSum,sum);
