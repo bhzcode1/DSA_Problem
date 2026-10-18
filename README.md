@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bhzcode1/DSA_Problem/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhzcode1/DSA_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhzcode1/DSA_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/bhzcode1/DSA_Problem/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/bhzcode1/DSA_Problem/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhzcode1/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhzcode1/DSA_Problem/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/bhzcode1/DSA_Problem/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/bhzcode1/DSA_Problem/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhzcode1/DSA_Problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
 |  |
