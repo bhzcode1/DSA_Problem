@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/bhzcode1/DSA_Problem/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/bhzcode1/DSA_Problem/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/bhzcode1/DSA_Problem/tree/master/0523-continuous-subarray-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/bhzcode1/DSA_Problem/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/bhzcode1/DSA_Problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhzcode1/DSA_Problem/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/bhzcode1/DSA_Problem/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/bhzcode1/DSA_Problem/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/bhzcode1/DSA_Problem/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/bhzcode1/DSA_Problem/tree/master/1672-richest-customer-wealth) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/bhzcode1/DSA_Problem/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
